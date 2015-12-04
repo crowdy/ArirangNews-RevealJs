@@ -112,6 +112,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="About.aspx" />
+    <Content Include="Content\arirang_news.png" />
     <Content Include="Slide.aspx" />
     <Content Include="Contact.aspx" />
     <Content Include="Content\bootstrap.css" />
